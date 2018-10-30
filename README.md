@@ -1,2 +1,2 @@
-# hello
+# Hello!
 hey everyone. i hate this.
